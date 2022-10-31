@@ -14,7 +14,7 @@ public class main {
         for(int i = 0; i<k; i++){
             Figure figure = fabric.getInstance(random.random());
             System.out.println(figure.pokajiFiguru());
-
+            System.out.println("done");
         }
 
 
